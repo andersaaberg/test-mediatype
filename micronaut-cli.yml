@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: test.mediatype
+---
+testFramework: spock
+sourceLanguage: groovy
